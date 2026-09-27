@@ -9,3 +9,5 @@ faiss-cpu
 langchain-groq
 python-dotenv
 import-ipynb
+typesense
+langchain-huggingface
