@@ -11,3 +11,8 @@ python-dotenv
 import-ipynb
 typesense
 langchain-huggingface
+langchain-openai
+langgraph
+langchain-core
+langchain-text-splitters
+langchain_google_genai
