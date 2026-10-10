@@ -64,9 +64,13 @@ This repository is a hands-on exploration of Retrieval-Augmented Generation (RAG
    OPENAI_API_KEY=your_key_here
    GEMINI_API_KEY=your_key_here
    GROQ_API_KEY=your_key_here
+   mongodb_uri=mongodb+srv://<user>:<password>@<cluster>/
    ```
 
 4. Open the notebooks in `notebook/` and run them in order as needed.
+
+The `agenticRagWithMongodb.ipynb` notebook uses the `sample_mflix.ragpdf`
+collection and requires a MongoDB deployment with Atlas Search enabled.
 
 ## Typical workflow
 
