@@ -16,3 +16,4 @@ langgraph
 langchain-core
 langchain-text-splitters
 langchain_google_genai
+pymongo
